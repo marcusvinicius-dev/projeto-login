@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+
+
+@media screen and (min-width: 768px) and (max-width: 992px){
+    #box-login{
+        width: 90vw;
+    }
+
+    .imagem{
+        float: left;
+    }
+
+    .formulario{
+        float: right;
+    }
+}
